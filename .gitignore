@@ -1,0 +1,13 @@
+# Arquivos e pastas temporárias
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configurações locais
+.vscode/
+.DS_Store
+
+# Ambientes virtuais
+venv/
+.env
