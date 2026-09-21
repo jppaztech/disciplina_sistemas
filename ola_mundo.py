@@ -1,0 +1,1 @@
+print("Olá, mundo! Estou rodando no Ubuntu/WSL dentro do VS Code.")
